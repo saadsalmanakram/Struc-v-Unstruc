@@ -1,2 +1,2 @@
 # Strucutred vs Unstrucutred Data
-Understanding different kinds of data as it is a crucial part of any data professional journey...
+Understanding difference between Structured vs Unstructured data as it is a crucial part of any Data Professional journey.
